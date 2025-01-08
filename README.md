@@ -48,14 +48,12 @@ Nền tảng này cung cấp cho người dùng khả năng đăng tin tìm ki�
 - **Cài đặt Plugin**:
   - Cài đặt plugin Ultimate Member để quản lý người dùng.
   - Thêm plugin hỗ trợ đăng bài và chỉnh sửa bài viết từ giao diện frontend.
-### Tuần 3: Phát triển Backend
+### Tuần 3: Xây dựng chức năng và thiết kế poster
 - **Tạo Các Trang Chính**:
   - Xây dựng trang đăng tin với đầy đủ các trường thông tin cần thiết.
 - **Thiết kế poster**:
   - Thiết kế poster bằng canva.
-- **Làm bài thuyết trình**:
-  - Làm bài thuyết trình bằng powerpoint.
-### Tuần 4: Phát triển Frontend
+### Tuần 4: Kiểm tra
 - **Kiểm tra và Chỉnh sửa**:
   - Kiểm tra chức năng các trang đã xây dựng.
   - Tinh chỉnh giao diện và trải nghiệm người dùng.
@@ -67,4 +65,4 @@ Nền tảng này cung cấp cho người dùng khả năng đăng tin tìm ki�
 ---
 
 ## Liên hệ
-Nếu có bất kỳ câu hỏi nào về dự án, vui lòng liên hệ qua email: [110122107ts@gmail.com].
+Nếu có bất kỳ câu hỏi nào về dự án, vui lòng liên hệ qua email: 110122107ts@gmail.com.
