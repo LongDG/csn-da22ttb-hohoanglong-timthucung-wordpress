@@ -38,35 +38,31 @@ Nền tảng này cung cấp cho người dùng khả năng đăng tin tìm ki�
 ### Tuần 1: Khởi động Dự án
 - **Nghiên cứu và Lên Kế Hoạch**:
   - Xác định mục tiêu dự án.
-  - Lập danh sách các tính năng cần thiết như đăng tin, tìm kiếm nâng cao, và quản lý người dùng.
-
+  - Lập danh sách các tính năng cần thiết như đăng tin, tìm kiếm, và quản lý người dùng.
+- **Cài đặt WordPress**:
+-  Cài đặt và cấu hình WordPress.
 ### Tuần 2: Thiết kế Giao Diện
 - **Thiết kế Giao Diện Người Dùng (UI)**:
-  - Lên ý tưởng cho trang chủ, trang đăng tin, và trang tìm kiếm.
-  - Tạo mẫu thiết kế bằng công cụ như Figma.
-
-### Tuần 3: Phát triển Backend
-- **Cài đặt WordPress**:
-  - Cài đặt và cấu hình WordPress trên máy chủ.
+  - Tạo mẫu thiết kế bằng công cụ như canva.
+  - Xây dựng trang chủ, trang đăng tin, và trang tìm kiếm.
 - **Cài đặt Plugin**:
   - Cài đặt plugin Ultimate Member để quản lý người dùng.
   - Thêm plugin hỗ trợ đăng bài và chỉnh sửa bài viết từ giao diện frontend.
-
-### Tuần 4: Phát triển Frontend
+### Tuần 3: Phát triển Backend
 - **Tạo Các Trang Chính**:
   - Xây dựng trang đăng tin với đầy đủ các trường thông tin cần thiết.
-  - Tạo trang tìm kiếm nâng cao theo các tiêu chí như loại thú cưng, màu sắc, và vị trí.
-- **Kiểm tra và Tinh Chỉnh**:
+- **Thiết kế poster**:
+  - Thiết kế poster bằng canva.
+- **Làm bài thuyết trình**:
+  - Làm bài thuyết trình bằng powerpoint.
+### Tuần 4: Phát triển Frontend
+- **Kiểm tra và Chỉnh sửa**:
   - Kiểm tra chức năng các trang đã xây dựng.
   - Tinh chỉnh giao diện và trải nghiệm người dùng.
--
-## Kế hoạch tiếp theo
-- **Phát triển tính năng bổ sung**:
-  - Thêm tính năng thông báo qua email khi có bài đăng mới liên quan.  
-- **Tăng cường nội dung và cộng đồng**:
-  - Xây dựng nội dung thu hút người dùng và thúc đẩy sự tương tác.  
-- **Bảo mật và sao lưu**:
-  - Triển khai các biện pháp bảo mật dữ liệu và thiết lập hệ thống sao lưu thường xuyên.
+- **Hoàn Thành poster**:
+  - Hoàn thành thiết kế poster bằng canva.
+- **Hoàn thành bài thuyết trình**:
+  - Hoàn thành bài thuyết trình bằng powerpoint.
 
 ---
 
