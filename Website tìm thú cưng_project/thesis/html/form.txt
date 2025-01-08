@@ -1,0 +1,24 @@
+<form method="post" enctype="multipart/form-data">
+    <label for="post_title">Tiêu đề bài viết:</label>
+    <input type="text" name="post_title" required>
+
+    <label for="post_content">Nội dung:</label>
+    <textarea name="post_content" required></textarea>
+
+    <label for="post_category">Danh mục:</label>
+    <select name="post_category">
+        <?php 
+            $categories = get_categories(); 
+            foreach($categories as $category) {
+                echo '<option value="' . $category->term_id . '">' . $category->name . '</option>';
+            }
+        ?>
+    </select>
+
+    <label for="featured_image">Ảnh đại diện:</label>
+    <input type="file" name="featured_image" accept="image/*">
+
+    <input type="hidden" name="post_id" value="<?php echo isset($_GET['post_id']) ? intval($_GET['post_id']) : ''; ?>">
+
+    <input type="submit" name="submit_post" value="Gửi bài viết">
+</form>
