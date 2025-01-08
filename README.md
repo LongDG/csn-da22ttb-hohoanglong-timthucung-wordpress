@@ -50,7 +50,7 @@ Nền tảng này cung cấp cho người dùng khả năng đăng tin tìm ki�
   - Thêm plugin hỗ trợ đăng bài và chỉnh sửa bài viết từ giao diện frontend.
 ### Tuần 3: Xây dựng chức năng và thiết kế poster
 - **Tạo Các Trang Chính**:
-  - Xây dựng trang đăng tin với đầy đủ các trường thông tin cần thiết.
+  - Xây dựng trang đăng tin, bản đồ, trang phân loại bài viết, trang cá nhân.
 - **Thiết kế poster**:
   - Thiết kế poster bằng canva.
 ### Tuần 4: Kiểm tra
